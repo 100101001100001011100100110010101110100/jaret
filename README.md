@@ -5,14 +5,18 @@
 </head>
 <body>
 
-<h1>Internet backbone</h1>
+<h3>Internet backbone</h3>
 <p>The Internet Backbone is the backbone of the internet, it is the core router of the internet.</p>
 
-<h2>servers and clients</h2>
+<h3>servers and clients</h3>
 <p>a server provides network resourses and services to computors that request it, a client is a computor program that request services from the server.</p>
 
 <h3>Components of the internet</h3>
-<p>(https://user-images.githubusercontent.com/113943949/197281463-eff76d91-ab71-4bb6-ad26-c659f2f22e48.png)</p>
+<h4>Servers</h4>
+<p>Servers are computers that hold shared files, programs, and the network operating system. Servers provide access to network resources to all the users of the network.</p>
+<h4>Clients<h4>
+<p>Clients are computers that access and use the network and shared network resources.</p>
+<h4>Router</h4>
 
 </body>
 </html>
