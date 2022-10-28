@@ -14,9 +14,12 @@
 <h3>Components of the internet</h3>
 <h4>Servers</h4>
 <p>Servers are computers that hold shared files, programs, and the network operating system. Servers provide access to network resources to all the users of the network.</p>
-<h4>Clients<h4>
-<p>Clients are computers that access and use the network and shared network resources.</p>
-<h4>Router</h4>
+<h4>Routers<h4>
+<p>The router is the device that connects a LAN with the internet When you have two distinct networks or want to share a single internet connection to multiple computers we use a router.</p>
+<h4>Switches</h4>
+<p>A switch is like a Hub but built in with advanced features. It uses physical device addresses in each incoming messages so that it can deliver the message to the right destination or port.</p>
+<h4>Work stations</h4>
+<p></p>
 
 </body>
 </html>
