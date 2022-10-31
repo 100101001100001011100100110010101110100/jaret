@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Client side scripting</title>
+Client side scripting
 </head>
 <body>
 
@@ -23,9 +23,11 @@
 <h4>Switches</h4>
 <p>A switch is like a Hub but built in with advanced features. It uses physical device addresses in each incoming messages so that it can deliver the message to the right destination or port.</p>
 <h4>Work stations</h4>
-<p></p>
+<p>work staions are personal computers attached to a local area network that in turn shares the resources of one or more large computers.</p>
 
+---
 
+<h3>Internet protocal</h3>
 
 
 
