@@ -28,8 +28,25 @@ Client side scripting
 ---
 
 <h3>Internet protocal</h3>
+<p>TCP is a standard that defines how to establish and maintain a network conversation by which applications can exchange data.</p>
 
+---
+  
+<h3>Three examples of internet services that rely on client/server relationships.</h3>
+  
+- Web
+- File
+- Mail service  
+  
+---
+  
+<h3>Hypertext</h3>
+<p>Hypertext is a text that contains a link to other texts. Ex: the blue text on Wikapedia.</p>
 
+---
+
+<h3>How is “the web” related to the internet?</h3>
+<p>The internet is the backbone of the web.</p>
 
 </body>
 </html>
