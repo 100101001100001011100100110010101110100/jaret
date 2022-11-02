@@ -48,5 +48,15 @@ Client side scripting
 <h3>How is “the web” related to the internet?</h3>
 <p>The internet is the backbone of the web.</p>
 
+---
+
+<h3>Hypertext transfer protocal</h3>
+<p>HTTP functions as a request–response protocol in the client–server model<p>
+
+---
+
+<h3>HTTP vs HTTPS</h3>
+<p>HTTPS uses TLS to encrypt normal HTTP requests and responses, and to digitally sign those requests and responses.</p>
+
 </body>
 </html>
