@@ -58,5 +58,12 @@ Client side scripting
 <h3>HTTP vs HTTPS</h3>
 <p>HTTPS uses TLS to encrypt normal HTTP requests and responses, and to digitally sign those requests and responses.</p>
 
+---
+
+
+<h3>Web 1.0 2.0 and 3.0</h3>
+- web 1.0 - The earliest version of the Internet
+- web 2.0 - Refers to websites that emphasize user-generated content. Based around ease of use.
+
 </body>
 </html>
