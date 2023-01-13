@@ -50,8 +50,9 @@ Client side scripting
 ---
   
 <h3>Hypertext</h3>
-<abbr title=https://en.wikipedia.org/wiki/Hyperlink#:~:text=In%20computing%2C%20a%20hyperlink%2C%20or,Hypertext%20is%20text%20with%20hyperlinks>Hyperlink</abbr>
+<abbr title=https://en.wikipedia.org/wiki/Hyperlink#:~:text=In%20computing%2C%20a%20hyperlink%2C%20or,Hypertext%20is%20text%20with%20hyperlinks>Hypertext</abbr>
 
+  https://www.google.com/search?rlz=1C1CHBF_enCA991CA991&q=hypertext&tbm=vid&sa=X&ved=2ahUKEwjl5oTFwsX8AhWCIH0KHSmdBVkQ0pQJegQIDBAB&biw=1600&bih=789&dpr=1&safe=active&ssui=on#fpstate=ive&vld=cid:1ce8035e,vid:J1MJYcyKVl8
   ---
 
 <h3>How is “the web” related to the internet?</h3>
@@ -67,13 +68,29 @@ Client side scripting
 <h3>HTTP vs HTTPS</h3>
 <p>HTTPS uses TLS to encrypt normal HTTP requests and responses, and to digitally sign those requests and responses.</p>
 
+  ![image](https://user-images.githubusercontent.com/113943949/212425032-0dd2f160-74f6-4e37-bc61-cae23349d1c0.png)
+
+  
 ---
 
 
 <h3>Web 1.0 2.0 and 3.0</h3>
 Web 1.0 was all about fetching, and reading information. Web 2.0 is all about reading, writing, creating, and interacting with the end user. It was famously called the participative social web. Web 3.0 is the third generation of the World Wide Web, and is a vision of a decentralized web which is currently a work in progress. It is all about reading, writing, and owning.
 
-
+---
+ 
+  <h3>Role of markup langauges in the web</h3>
+  <p>Markup languages are the building blocks used to create web pages or all shapes and sizes.</p>
+  
+  ---
+  
+  <h3>Importance of CSE1210 on my future</h3>
+  <p>This class bring oportunities for future career oportunities, technology is used all over the world in almost every job so it will be useful.</p>
+  
+  
+  
+  
+  
 
 </body>
 </html>
